@@ -1,0 +1,17 @@
+autopep8
+bayesian_testing
+flake8
+ipykernel
+matplotlib
+numpy
+pandas
+plotly
+scipy
+seaborn
+squarify
+wordcloud
+Pillow
+nltk
+
+
+# python -m ipykernel install --user --name=myenv
